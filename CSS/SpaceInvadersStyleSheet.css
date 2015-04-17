@@ -1,0 +1,14 @@
+﻿#status {
+    color: white;
+    font-family: sans-serif;
+    display: inline-block;
+}
+
+span {
+    margin-right: 50px;
+
+}
+
+button {
+    display: inline-block;
+}
